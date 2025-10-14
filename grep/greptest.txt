@@ -1,0 +1,41 @@
+INFO 2025-10-10 09:01:01 System startup complete.
+DEBUG Initializing cache subsystem.
+WARNING Low disk space on /dev/sda1 (4% remaining).
+ERROR Unable to open configuration file /etc/app/config.yml
+INFO Retrying connection to database...
+ERROR Database connection failed after 3 attempts.
+CRITICAL Fatal: unable to allocate memory.
+INFO Shutting down service gracefully.
+success: operation completed successfully.
+Success: all background tasks finished.
+error: unexpected token in JSON at position 45.
+error error error repeating to test count.
+Task completed at 15:30:22.
+Task failed at 15:31:05.
+task COMPLETED successfully again.
+warning: deprecated API used in module.
+NOTE: The next section is for context testing.
+--- CONTEXT TEST START ---
+This line is before the match.
+This is the matching line for context test.
+This line is after the match.
+--- CONTEXT TEST END ---
+INFO Checking network interfaces.
+DEBUG eth0: link is up
+DEBUG wlan0: link is down
+INFO Backup process started.
+INFO Backup process finished.
+INFO Starting web server on port 8080.
+ERROR Could not bind to port 8080.
+ERROR Could not bind to port 8080.
+INFO Web server restarted successfully.
+error404: file not found.
+fatal: repository not found.
+FATAL kernel panic: system halted.
+user login: solomon
+user logout: solomon
+User Login: admin
+User logout: admin
+password: ********
+Success: password updated successfully.
+WARNING: Memory usage exceeded 90%.

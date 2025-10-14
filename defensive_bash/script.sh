@@ -1,0 +1,1 @@
+echo "deefensive bash" | awk '{print $1}'
