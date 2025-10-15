@@ -1,1 +1,1 @@
-echo "deefensive bash" | awk '{print $1}'
+# evevrything i local
